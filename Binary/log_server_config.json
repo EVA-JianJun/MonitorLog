@@ -1,0 +1,12 @@
+{
+	"PASSWORD" : "UOCP2P3KheLphV",
+	"PORT" : 12701,
+	"CLIENT_IP_LIST": ["192.168.1.7"],
+	"CLIENT_IP_LIST_LOCAL": ["192.168.1.7"],
+	"CLIENT_NAME_LIST" : ["Main"],
+	"smtp_server_ip" : ["smtp.qq.com", "smtpdm.aliyun.com"],
+	"smtp_server_port" : [465, 465],
+	"my_sender" : [],
+	"my_pass" : [],
+	"my_user_list" : []
+}
